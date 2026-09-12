@@ -25,6 +25,13 @@ New-MgGroup -DisplayName "Management Team" -SecurityEnabled:$true ...
 New-MgGroup -DisplayName "All Employees" -SecurityEnabled:$true ...
 ```
 
+
+```Powershell
+
+
+
+```
+
 <img width="588" height="168" alt="Screenshot 2026-08-03 at 21 47 48" src="https://github.com/user-attachments/assets/d8f532f3-a0fe-4ad0-9140-8901642b06cd" />
 
 **Step 3 — Created the new hires CSV file**
